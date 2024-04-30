@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dressa27
 - 👀 I’m interested in games
-- 📫 How to reach me ...
+- 📫 How to reach me : github
 - 😄 Pronouns: ela/dela
 
 
